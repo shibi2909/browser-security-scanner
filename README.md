@@ -25,3 +25,8 @@ phishing-style login pages, and warns users in real time.
 
 ## Project Status
 In Progress 🚧
+
+Planned enhancements include:
+- Risk scoring system
+- Suspicious JavaScript detection
+- Network request analysis
